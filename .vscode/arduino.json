@@ -1,0 +1,5 @@
+{
+    "configuration": "eYFi-OTA=disabled,cpu=atmega2560",
+    "board": "eYFi-Mega-ATmega2560-Section:avr:eyfi_atmega2560",
+    "port": "COM11"
+}
